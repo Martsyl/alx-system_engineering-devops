@@ -1,0 +1,2 @@
+#!/bin/bash
+tails --lines=3 icta | tail --lines=1
